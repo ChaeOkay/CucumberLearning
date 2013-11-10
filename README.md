@@ -1,4 +1,6 @@
-# audio book collection manager acceptance tests
+# Cucumber Tests
 
-This project contains the examples for a blog post about cucumber (which is not
-even published at the time of writing).
+Learning Cucumber
+
+Resources:
+-  [codecentric - basics and setup](https://blog.codecentric.de/en/2013/08/cucumber-setup-basics/).
